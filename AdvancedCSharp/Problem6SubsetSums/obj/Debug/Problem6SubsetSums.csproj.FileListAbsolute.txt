@@ -1,0 +1,6 @@
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem6SubsetSums\bin\Debug\Problem6SubsetSums.exe.config
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem6SubsetSums\bin\Debug\Problem6SubsetSums.exe
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem6SubsetSums\bin\Debug\Problem6SubsetSums.pdb
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem6SubsetSums\obj\Debug\Problem6SubsetSums.exe
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem6SubsetSums\obj\Debug\Problem6SubsetSums.pdb
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem6SubsetSums\obj\Debug\Problem6SubsetSums.csprojResolveAssemblyReference.cache

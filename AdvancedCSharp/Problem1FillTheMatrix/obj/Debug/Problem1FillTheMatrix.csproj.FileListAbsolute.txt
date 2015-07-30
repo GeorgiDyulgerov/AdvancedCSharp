@@ -1,0 +1,6 @@
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem1FillTheMatrix\bin\Debug\Problem1FillTheMatrix.exe.config
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem1FillTheMatrix\bin\Debug\Problem1FillTheMatrix.exe
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem1FillTheMatrix\bin\Debug\Problem1FillTheMatrix.pdb
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem1FillTheMatrix\obj\Debug\Problem1FillTheMatrix.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem1FillTheMatrix\obj\Debug\Problem1FillTheMatrix.exe
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem1FillTheMatrix\obj\Debug\Problem1FillTheMatrix.pdb

@@ -1,0 +1,6 @@
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem1SortArrayOfNumbers\bin\Debug\Problem1SortArrayOfNumbers.exe.config
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem1SortArrayOfNumbers\bin\Debug\Problem1SortArrayOfNumbers.exe
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem1SortArrayOfNumbers\bin\Debug\Problem1SortArrayOfNumbers.pdb
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem1SortArrayOfNumbers\obj\Debug\Problem1SortArrayOfNumbers.csprojResolveAssemblyReference.cache
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem1SortArrayOfNumbers\obj\Debug\Problem1SortArrayOfNumbers.exe
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem1SortArrayOfNumbers\obj\Debug\Problem1SortArrayOfNumbers.pdb

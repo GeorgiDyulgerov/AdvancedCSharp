@@ -1,0 +1,6 @@
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem3MatrixShuffling\bin\Debug\Problem3MatrixShuffling.exe.config
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem3MatrixShuffling\bin\Debug\Problem3MatrixShuffling.exe
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem3MatrixShuffling\bin\Debug\Problem3MatrixShuffling.pdb
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem3MatrixShuffling\obj\Debug\Problem3MatrixShuffling.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem3MatrixShuffling\obj\Debug\Problem3MatrixShuffling.exe
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem3MatrixShuffling\obj\Debug\Problem3MatrixShuffling.pdb

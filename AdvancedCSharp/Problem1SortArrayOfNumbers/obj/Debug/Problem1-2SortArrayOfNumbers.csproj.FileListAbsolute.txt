@@ -1,0 +1,3 @@
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem1SortArrayOfNumbers\bin\Debug\Problem1SortArrayOfNumbers.exe.config
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem1SortArrayOfNumbers\obj\Debug\Problem1SortArrayOfNumbers.exe
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem1SortArrayOfNumbers\obj\Debug\Problem1SortArrayOfNumbers.pdb

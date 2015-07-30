@@ -1,0 +1,6 @@
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem3LargerThanNeighbours\bin\Debug\Problem3LargerThanNeighbours.exe.config
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem3LargerThanNeighbours\bin\Debug\Problem3LargerThanNeighbours.exe
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem3LargerThanNeighbours\bin\Debug\Problem3LargerThanNeighbours.pdb
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem3LargerThanNeighbours\obj\Debug\Problem3LargerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem3LargerThanNeighbours\obj\Debug\Problem3LargerThanNeighbours.exe
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem3LargerThanNeighbours\obj\Debug\Problem3LargerThanNeighbours.pdb

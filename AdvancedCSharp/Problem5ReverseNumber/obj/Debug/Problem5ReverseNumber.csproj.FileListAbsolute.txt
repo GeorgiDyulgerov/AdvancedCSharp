@@ -1,0 +1,5 @@
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem5ReverseNumber\bin\Debug\Problem5ReverseNumber.exe.config
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem5ReverseNumber\bin\Debug\Problem5ReverseNumber.exe
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem5ReverseNumber\bin\Debug\Problem5ReverseNumber.pdb
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem5ReverseNumber\obj\Debug\Problem5ReverseNumber.exe
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharp\Problem5ReverseNumber\obj\Debug\Problem5ReverseNumber.pdb
