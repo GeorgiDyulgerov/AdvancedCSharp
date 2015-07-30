@@ -1,0 +1,6 @@
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\CommandInteger\bin\Debug\CommandInteger.exe.config
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\CommandInteger\bin\Debug\CommandInteger.exe
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\CommandInteger\bin\Debug\CommandInteger.pdb
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\CommandInteger\obj\Debug\CommandInteger.csprojResolveAssemblyReference.cache
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\CommandInteger\obj\Debug\CommandInteger.exe
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\CommandInteger\obj\Debug\CommandInteger.pdb

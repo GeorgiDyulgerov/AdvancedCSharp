@@ -1,0 +1,6 @@
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\TargetPractice\bin\Debug\TargetPractice.exe.config
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\TargetPractice\bin\Debug\TargetPractice.exe
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\TargetPractice\bin\Debug\TargetPractice.pdb
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\TargetPractice\obj\Debug\TargetPractice.exe
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\TargetPractice\obj\Debug\TargetPractice.pdb
+c:\users\georgidyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\TargetPractice\obj\Debug\TargetPractice.csprojResolveAssemblyReference.cache

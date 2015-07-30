@@ -1,0 +1,6 @@
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\ClearingCommands\bin\Debug\ClearingCommands.exe.config
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\ClearingCommands\bin\Debug\ClearingCommands.exe
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\ClearingCommands\bin\Debug\ClearingCommands.pdb
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\ClearingCommands\obj\Debug\ClearingCommands.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\ClearingCommands\obj\Debug\ClearingCommands.exe
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\ClearingCommands\obj\Debug\ClearingCommands.pdb

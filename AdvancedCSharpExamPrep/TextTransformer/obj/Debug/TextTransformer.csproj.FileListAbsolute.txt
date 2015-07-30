@@ -1,0 +1,6 @@
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\TextTransformer\bin\Debug\TextTransformer.exe.config
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\TextTransformer\bin\Debug\TextTransformer.exe
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\TextTransformer\bin\Debug\TextTransformer.pdb
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\TextTransformer\obj\Debug\TextTransformer.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\TextTransformer\obj\Debug\TextTransformer.exe
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\TextTransformer\obj\Debug\TextTransformer.pdb

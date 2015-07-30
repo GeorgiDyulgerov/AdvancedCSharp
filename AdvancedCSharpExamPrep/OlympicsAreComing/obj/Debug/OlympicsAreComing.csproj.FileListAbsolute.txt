@@ -1,0 +1,6 @@
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\OlympicsAreComing\bin\Debug\OlympicsAreComing.exe.config
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\OlympicsAreComing\bin\Debug\OlympicsAreComing.exe
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\OlympicsAreComing\bin\Debug\OlympicsAreComing.pdb
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\OlympicsAreComing\obj\Debug\OlympicsAreComing.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\OlympicsAreComing\obj\Debug\OlympicsAreComing.exe
+C:\Users\GeorgiDyulgerov\documents\visual studio 2013\Projects\AdvancedCSharpExam\OlympicsAreComing\obj\Debug\OlympicsAreComing.pdb
